@@ -1,0 +1,49 @@
+<svg  version='1.1' xmlns='http://www.w3.org/2000/svg'>
+
+ <polygon transform = 'rotate(0.000000 0.000000 0.000000)' points = '100.000000 0.000000 0.000000 173.200000 200.000000 173.200000' fill = 'red' stroke = 'black' stroke-width = '1' />
+  <circle cx = '100.000000' cy = '20.000000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '90.000000' cy = '37.320000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '110.000000' cy = '37.320000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '80.000000' cy = '54.640000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '100.000000' cy = '54.640000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '120.000000' cy = '54.640000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '70.000000' cy = '71.960000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '90.000000' cy = '71.960000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '110.000000' cy = '71.960000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '130.000000' cy = '71.960000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '60.000000' cy = '89.280000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '80.000000' cy = '89.280000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '100.000000' cy = '89.280000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '120.000000' cy = '89.280000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '140.000000' cy = '89.280000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '50.000000' cy = '106.600000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '70.000000' cy = '106.600000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '90.000000' cy = '106.600000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '110.000000' cy = '106.600000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '130.000000' cy = '106.600000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '150.000000' cy = '106.600000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '40.000000' cy = '123.920000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '60.000000' cy = '123.920000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '80.000000' cy = '123.920000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '100.000000' cy = '123.920000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '120.000000' cy = '123.920000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '140.000000' cy = '123.920000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '160.000000' cy = '123.920000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '30.000000' cy = '141.240000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '50.000000' cy = '141.240000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '70.000000' cy = '141.240000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '90.000000' cy = '141.240000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '110.000000' cy = '141.240000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '130.000000' cy = '141.240000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '150.000000' cy = '141.240000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '170.000000' cy = '141.240000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '20.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '40.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '60.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '80.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '100.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '120.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '140.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '160.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+  <circle cx = '180.000000' cy = '158.560000' r = '10.000000' fill = 'yellow' transform = 'rotate(0.000000 0.000000 0.000000 )' />
+</svg>
