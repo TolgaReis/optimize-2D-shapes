@@ -1,5 +1,6 @@
 driver: shapeException.o Shape.o Rectangle.o Triangle.o Circle.o ComposedShape.o Polygon.o PolygonVect.o PolygonDyn.o main.o
-	g++ -o driver shapeException.o Shape.o Rectangle.o Triangle.o Circle.o ComposedShape.o Polygon.o PolygonVect.o PolygonDyn.o main.o
+	g++ -o driver shapeException.o Shape.o Rectangle.o Triangle.o Circle.o ComposedShape.o Polygon.o PolygonVect.o 
+	PolygonDyn.o main.o
 
 main.o: main.cpp
 	g++ -c -std=c++11 main.cpp
